@@ -1,0 +1,5 @@
+- title: .NET | C# | Threads | Bank gateway for booking transactions in Central Accounting System
+- shortDescription: Implement the IBookingGateway interface (create own class in a separate file in the BookingGatewayService project and implement it) and finish implementation of the BookingGatewayFactory class, which should create objects of IBookingGateway.
+- defaultTime: 60 min
+- tags: Threads, .NET, Classes
+- difficulty: HARD

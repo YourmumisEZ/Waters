@@ -1,0 +1,64 @@
+*.iws
+*.launch
+.externalToolBuilders/
+.DS_Store
+.idea/
+.nb-gradle/
+.project
+.settings/
+atlassian-ide-plugin.xml
+nbactions.xml
+nbbuild/
+nbdist/
+nbproject/private/
+desktop.ini/
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+*.pidb
+*.resources
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.usertasks
+.vs/
+.vscode/*
+test-results/
+
+
+### *** required entries below ***
+###
+### Please do not add anything below this line, your changes will be overwritten
+###
+.DS.d74cb6fe
+__MACOSX/
+.history/
+### VisualStudioCode ###
+!.vscode/300cf
+!.vscode/extensions.json
+*.code-workspace
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+packages/
+*.nupkg
+*.trx
+
+
+
+
+###
+###                                                                                                                                                                                                                                  git#196815
+###
